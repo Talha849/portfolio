@@ -1,7 +1,7 @@
-# [Talha Fiaz]
+# Talha Fiaz
 Python Data & AI Engineer | Scraping • Analytics • ML
 
-📧 [talhafiaz849@gmail.com] | 🔗 [LinkedIn] | 🐙 [GitHub]
+📧 talhafiaz849@gmail.com | 🔗 https://www.linkedin.com/in/talha-fiaz-74a441241/ | 🐙 https://github.com/Talha849
 
 ## What I Deliver
 - **Web Scraping & Automation** – Reliable, scalable data extraction
