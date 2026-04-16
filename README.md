@@ -13,4 +13,4 @@ Python Data & AI Engineer | Scraping • Analytics • ML
 
 ## Let's Work Together
 I deliver production-ready scripts, clean data, and deployable AI tools.
-📩 [Email] | 📅 [Booking Link]
+📩 talhafiaz849@gmail.com | 📅 [Booking Link]
